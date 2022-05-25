@@ -1,0 +1,37 @@
+{
+  "badminton": {
+    "name": "Uni badminton team",
+    "information": [
+      "The previous team set record breakers making the uni well known now",
+      "Go uni badminton team, you have a tournament coming up on the 10th of May at 10am"
+    ]
+  },
+  "football": {
+    "name": "Uni football",
+    "information": [
+      "Football is the uni's favourite sport",
+      "Go uni football, you have a tournament coming up on the 5th of May at 10am"
+    ]
+  },
+  "bowls": {
+    "name": "Uni bowls",
+    "information": [
+      "Greatest bowls team ever, they have set high records at the university",
+      "Go uni bowls, you have a tournament coming up on the 15th of May at 10am"
+    ]
+  },
+  "table tennis": {
+    "name": "uni ping pong",
+    "information": [
+      "Uni ping pong is very well known for their skills and tallents",
+      "Go uni ping pong, you have a tournament coming up on the 20th of May at 10am"
+    ]
+  },
+  "cards": {
+    "name": "magic cards team",
+    "information": [
+      "Magic cards team are very new club the uni has introduced",
+      "Go magic cards team, you have a tournament coming up on the 25th of May at 10am"
+    ]
+  }
+}
